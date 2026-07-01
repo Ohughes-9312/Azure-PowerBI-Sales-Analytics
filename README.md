@@ -127,6 +127,8 @@ Azure-PowerBI-Sales-Analytics/
 
 ## Data Import
 
+Imported the provided sales datasets into Power BI Desktop to prepare the data for transformation and modeling.
+
 <img width="1912" height="1075" alt="Loading data" src="https://github.com/user-attachments/assets/04a3edae-316f-460e-9466-15c0d8bc1449" />
 
 
@@ -134,12 +136,15 @@ Azure-PowerBI-Sales-Analytics/
 
 ## Data Model
 
+Created relationships between multiple tables to establish an effective data model for reporting.
+
 <img width="1919" height="1029" alt="Creating a hierarchy" src="https://github.com/user-attachments/assets/40bea0f0-8e07-48a1-a361-0bb6502f246a" />
 
 
 ---
 
 ## Geographic Visualization
+
 
 <img width="1915" height="1077" alt="Map Visualization" src="https://github.com/user-attachments/assets/82cc9a9a-1e41-4ddf-9dac-fea030323543" />
 
