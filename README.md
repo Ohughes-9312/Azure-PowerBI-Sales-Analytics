@@ -127,25 +127,28 @@ Azure-PowerBI-Sales-Analytics/
 
 ## Data Import
 
-*(Add screenshot here)*
+<img width="1912" height="1075" alt="Loading data" src="https://github.com/user-attachments/assets/04a3edae-316f-460e-9466-15c0d8bc1449" />
+
 
 ---
 
 ## Data Model
 
-*(Add screenshot here)*
+<img width="1919" height="1029" alt="Creating a hierarchy" src="https://github.com/user-attachments/assets/40bea0f0-8e07-48a1-a361-0bb6502f246a" />
 
----
-
-## Dashboard
-
-*(Add screenshot here)*
 
 ---
 
 ## Geographic Visualization
 
-*(Add screenshot here)*
+<img width="1919" height="1074" alt="Map Visualization" src="https://github.com/user-attachments/assets/2fa21092-4ec6-4d71-8fed-20e3916db1d9" />
+
+---
+
+## Final Dashboard
+
+<img width="1915" height="1077" alt="Final Dashboard" src="https://github.com/user-attachments/assets/3c9d59a2-360f-45aa-9173-7b8a15e4d54b" />
+
 
 ---
 
