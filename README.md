@@ -141,7 +141,8 @@ Azure-PowerBI-Sales-Analytics/
 
 ## Geographic Visualization
 
-<img width="1919" height="1074" alt="Map Visualization" src="https://github.com/user-attachments/assets/2fa21092-4ec6-4d71-8fed-20e3916db1d9" />
+<img width="1919" height="1074" alt="Map Visualization" src="https://github.com/user-attachments/assets/8ddb7bde-7926-41a6-97f2-e346692ac168" />
+
 
 ---
 
